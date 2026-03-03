@@ -1,0 +1,26 @@
+ejerciciosEvaluados=10
+notaSobre10Global=9.50
+
+NOTA_POR_EJERCICIO (ejercicio | numClases | puntosObtenidos | puntosMax | notaSobre10)
+com.docencia.expresiones.ejercicio1.Ejercicio1Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.expresiones.ejercicio2.Ejercicio2Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.expresiones.ejercicio3.Ejercicio3Test | 1 | 0.75 | 1.00 | 7.50
+com.docencia.expresiones.ejercicio4.Ejercicio4Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.expresiones.ejercicio5.Ejercicio5Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.logica.ejercicio1.Ejercicio1Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.logica.ejercicio2.Ejercicio2Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.logica.ejercicio3.Ejercicio3Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.logica.ejercicio4.Ejercicio4Test | 1 | 1.00 | 1.00 | 10.00
+com.docencia.logica.ejercicio5.Ejercicio5Test | 1 | 0.75 | 1.00 | 7.50
+
+DETALLE_POR_CLASE (ejercicio | clase | ejecutados | incorrectos | puntos)
+com.docencia.expresiones.ejercicio1.Ejercicio1Test | com.docencia.expresiones.ejercicio1.Ejercicio1Test | 10 | 0 | 1.00
+com.docencia.expresiones.ejercicio2.Ejercicio2Test | com.docencia.expresiones.ejercicio2.Ejercicio2Test | 10 | 0 | 1.00
+com.docencia.expresiones.ejercicio3.Ejercicio3Test | com.docencia.expresiones.ejercicio3.Ejercicio3Test | 10 | 2 | 0.75
+com.docencia.expresiones.ejercicio4.Ejercicio4Test | com.docencia.expresiones.ejercicio4.Ejercicio4Test | 10 | 0 | 1.00
+com.docencia.expresiones.ejercicio5.Ejercicio5Test | com.docencia.expresiones.ejercicio5.Ejercicio5Test | 10 | 0 | 1.00
+com.docencia.logica.ejercicio1.Ejercicio1Test | com.docencia.logica.ejercicio1.Ejercicio1Test | 10 | 0 | 1.00
+com.docencia.logica.ejercicio2.Ejercicio2Test | com.docencia.logica.ejercicio2.Ejercicio2Test | 10 | 0 | 1.00
+com.docencia.logica.ejercicio3.Ejercicio3Test | com.docencia.logica.ejercicio3.Ejercicio3Test | 10 | 0 | 1.00
+com.docencia.logica.ejercicio4.Ejercicio4Test | com.docencia.logica.ejercicio4.Ejercicio4Test | 10 | 0 | 1.00
+com.docencia.logica.ejercicio5.Ejercicio5Test | com.docencia.logica.ejercicio5.Ejercicio5Test | 10 | 1 | 0.75
