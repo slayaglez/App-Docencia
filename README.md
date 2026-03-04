@@ -26,7 +26,7 @@ Es una aplicación para registrar usuarios, como alumnos o profesores, y buscar 
 | Herramienta | Versión | Uso |
 |-------------|---------|-----|
 | Java | 17 | Lenguaje principal |
-| Maven | - | entorno de ejecución |
+| Maven | latest | entorno de ejecución |
 | VisualStudioCode | latest | IDE / entorno de creación |
 
 
@@ -36,6 +36,34 @@ Es una aplicación para registrar usuarios, como alumnos o profesores, y buscar 
 ## Estructura del proyecto
 
 ```
+.
+├── pom.xml
+├── README.md
+├── src
+│   └── main
+│       └── java
+│           └── com
+│               └── docencia
+│                   ├── app
+│                   │   └── Main.java
+│                   ├── model
+│                   │   ├── Alumno.java
+│                   │   ├── Persona.java
+│                   │   └── Profesor.java
+│                   ├── service
+│                   │   └── CentroEducativo.java
+│                   └── util
+│                       └── Validaciones.java
+├── target
+│   └── classes
+│       └── com
+│           └── docencia
+│               ├── app
+│               ├── model
+│               ├── service
+│               └── util
+│   
+└── tools
 
 ```
 
