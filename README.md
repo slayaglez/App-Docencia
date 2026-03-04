@@ -4,7 +4,7 @@
 
 <hr>
 
-## ¿Por qué este proyecto?
+## ❓ ¿Por qué este proyecto?
 
 Esta aplicación es el resumen perfecto de todo lo aprendido en Java hasta ahora de forma limpia y compacta. Algunos métodos no son la forma más óptima de conseguir el objetivo planteado pero decidí hacerlo en la forma en la que lo hice para practicar, pues métodos como la recursividad no tienen cabida en una aplicación como esta.
 
@@ -14,14 +14,14 @@ Esta aplicación es el resumen perfecto de todo lo aprendido en Java hasta ahora
 
 Es una aplicación para registrar usuarios, como alumnos o profesores, y buscar cada uno siguiendo diferentes patrones de búsqueda. De momento los datos se guardan en una lista que evita duplicados, así que los datos se borrarán al cerrar el programa.
 
-### Características
+### 🌐 Características
 - [ ] Registro de personas
 - [ ] Búsqueda de personas por id, documento, prefijo o límite de edad
 - [ ] Prevención de duplicados con listas Set
 
 <hr>
 
-## Stack técnico
+## 🧩 Stack técnico
 
 | Herramienta | Versión | Uso |
 |-------------|---------|-----|
@@ -33,7 +33,7 @@ Es una aplicación para registrar usuarios, como alumnos o profesores, y buscar 
 <hr>
 
 
-## Estructura del proyecto
+## ⚙ Estructura del proyecto
 
 ```
 .
@@ -72,4 +72,4 @@ Es una aplicación para registrar usuarios, como alumnos o profesores, y buscar 
 
 <hr>
 
-*Proyecto desarrollado como ejercicio personal de bajo nivel. 100% ensamblador, 0% librerías externas.*
+*Proyecto desarrollado como ejercicio personal de bajo nivel.*
