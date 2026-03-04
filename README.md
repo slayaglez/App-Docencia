@@ -1,4 +1,4 @@
-# App Docencia
+<img src="img/docencia_header.png">
 
 > *Un expositor de mis habilidades en Java orientado a objetos*
 
