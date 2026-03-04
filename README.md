@@ -4,6 +4,10 @@
 
 <hr>
 
+![OpenSource](https://img.shields.io/badge/Open%20Source-22bb44?style=for-the-badge) ![java](https://img.shields.io/badge/java-FF6600?style=for-the-badge) ![maven](https://img.shields.io/badge/maven-dd0000?style=for-the-badge)
+
+<hr>
+
 ## ❓ ¿Por qué este proyecto?
 
 Esta aplicación es el resumen perfecto de todo lo aprendido en Java hasta ahora de forma limpia y compacta. Algunos métodos no son la forma más óptima de conseguir el objetivo planteado pero decidí hacerlo en la forma en la que lo hice para practicar, pues métodos como la recursividad no tienen cabida en una aplicación como esta.
